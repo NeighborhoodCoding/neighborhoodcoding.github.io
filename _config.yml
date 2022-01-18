@@ -11,7 +11,8 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 동네코딩 # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 동네코딩의 블로그. # add description
+about-author: 동네코딩은 다국의 다양하고 좋은 코딩 아티클을 소개하며, 한글과 영어로 번역하여 실행가능한 예제코드와 함께 깃헙과 미디엄에서 제공합니다. Neighborhood coding introduces a variety of good coding articles by ENG and KOR.
+ # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
